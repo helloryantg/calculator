@@ -1,0 +1,47 @@
+body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-size: 3em;
+}
+
+table {
+    margin: 0 auto;
+}
+
+td {
+    height: 100px;
+    width: 100px;
+    border: 2px solid #999999; 
+}
+
+
+.darkest-grey {
+    background-color: #999999;    
+}
+
+.dark-grey {
+    background-color: #D6D6D6;
+}
+
+.light-grey {
+    background-color: #E0E0E0;
+}
+
+.orange {
+    background-color: #F79231;
+}
+
+#zero {
+    text-align: left;
+    padding-left: 40px;
+}
+
+#main-screen {
+    text-align: right;
+    padding-right: 40px;
+    font-size: 2em;
+    color: white;
+}
